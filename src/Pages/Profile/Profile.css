@@ -1,0 +1,9 @@
+.profilepage{
+    background-color: rgb(231, 229, 229);
+}
+.maincontent{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    width: 80%;
+}

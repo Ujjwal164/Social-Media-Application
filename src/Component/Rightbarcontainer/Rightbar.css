@@ -1,0 +1,46 @@
+
+.topcontainer{
+    background-color: white;
+    height: 40vh;
+    width: 380px;
+    margin-top: 30px;
+    border-radius: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.tcimg{
+    height: 80px;
+    width: 140px;
+    object-fit: cover;
+    border-radius: 5px;
+
+}
+.bottomcontainer{
+    background-color: white;
+    height: 50vh;
+    width: 380px;
+    margin-top: 26px;
+    border-radius: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    
+}
+.profileimg{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.friendicon{
+    height: 35px;
+    background-color: grey;
+    width: 35px;
+    padding: 6px 6px;
+    border-radius: 50%;
+    margin-left: 20px;
+}

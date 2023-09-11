@@ -1,0 +1,24 @@
+.notification{
+    width:300px;
+    height: 45vh;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 15px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.coverimg{
+        height: 150px;
+        width: 282px;
+        object-fit: cover;
+}
+
+.explorecontainer{
+    width:300px;
+    height: 40vh;
+    background-color: white;
+    margin-top: 25px;
+    border-radius: 15px;
+    overflow: hidden;
+    overflow-y: scroll;
+}

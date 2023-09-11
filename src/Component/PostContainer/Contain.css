@@ -1,0 +1,24 @@
+.postbox{
+    background-color: white;
+    height: 68vh;
+    width: 83vh;
+    margin-top: 15px;
+    border-radius: 12px;
+}
+.profileimage{
+   width: 50px;
+   height: 50px;
+   border-radius: 30px;
+   object-fit: cover;
+    
+}
+.moreicon{
+    width: 43px;
+    margin-left: 60vh;
+    cursor: pointer;
+    font-weight: lighter;
+}
+.likecom{
+    width: 35px;
+    height: 35px;
+}

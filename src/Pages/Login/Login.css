@@ -1,0 +1,12 @@
+.inputbox{
+    padding: 18px 16px;
+    text-align: start;
+    width: 400px;
+    margin-top: 10px;
+    border-radius: 15px;
+    border: none;
+    font-size: 14px;
+}
+.halfcolor{
+    color: rgb(243, 108, 90);
+}

@@ -1,0 +1,56 @@
+.Maincontainer{
+    display: flex;
+    margin: auto;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.leftsidecontainer{
+    font-size: 24px;
+    padding-left: 40px;
+}
+.midsidecontainer{
+    background-color: rgb(231, 229, 229);
+    padding: 7px;
+    border-radius: 10px;
+}
+.searchicon{
+    width:11px;
+    height:20px;
+}
+.searchbox{
+    border:none;
+    border-radius: 20px;
+    padding: 4px 0px;
+    flex: 4;
+    width: 50vh;
+    margin-left: 9px;
+    background: none;
+}
+.rightsidecontainer{
+    margin-right: 20px;
+}
+.icons{
+    padding: 12px;
+    font-size: 22px;
+}
+.rightsidecontainer{
+    display: flex;
+    align-items: center;
+}
+.profileicon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 9px 11px;
+    object-fit: cover;
+}
+.profilename{
+    margin-left: 0.2px;
+    margin-top: 12px;
+    font-size: 17px;
+    
+}
